@@ -82,7 +82,7 @@ Todas las peticiones públicas del cliente deben apuntar exclusivamente a la dir
 
    * **GET /tours/id_tour:** Retorna el detalle de un tour específico.
      
-   * **PATCH /tours//cupos:** Modificación interna del inventario (Protegido por cabecera de seguridad simétrica).
+   * **PATCH /tours/cupos:** Modificación interna del inventario (Protegido por cabecera de seguridad simétrica).
      
      
 ### Reservas:
