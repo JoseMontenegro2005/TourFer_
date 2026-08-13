@@ -1,0 +1,6 @@
+flask
+flask-cors
+mysqlclient
+python-dotenv
+flask-jwt-extended
+requests
